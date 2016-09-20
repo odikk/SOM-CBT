@@ -1,0 +1,1 @@
+<?PHP   $dbms = 'mysql4';  // mysql version$dbhost = 'localhost'; // hostname for database$dbname = 'flight';  // database name$dbuser = 'flight_User'; // username$dbpasswd = 'amma_thangam'; // password$dirroot   = '/Library/WebServer/Documents/flight'; // absolute path$wwwroot   = 'http://130.108.168.24/flight'; // base directory $styles = 'default'; ?>

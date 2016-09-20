@@ -1,0 +1,1 @@
+<?php$var = "Geethanandh Kandasamy";print_r(explode(" ",$var));?>

@@ -1,0 +1,60 @@
+4 JCP ex 1,96,100,96,0.19,0,0,0,3,80
+5 JCP occulsion lenticulostriate arteries,97,95,96,-0.03,81,0,0,2,0
+6 JCP subdural hematoma,72,91,64,0.26,19,4,0,0,60
+7 JCP occlusion brain vasculature,55,95,16,0.61,13,46,18,4,2
+8 JCP venous sinus system,71,78,64,0.13,8,59,1,0,15
+9 JCP hydrocephalus,69,95,56,0.41,11,58,1,5,8
+10 JCP glial cells,73,82,56,0.25,5,13,61,0,4
+11JCP axonal transport,79,91,68,0.33,2,66,0,10,5
+12 JCP Ex 1,100,100,100,0,0,0,83,0,0
+13 JCP Ex 1,75,95,44,0.48,7,2,63,9,2
+14 JCP Occlusion poster. cerebral artery,97,91,100,-0.16,1,0,1,81,0
+15 JCP Brocas aphasia,66,86,56,0.32,55,22,4,1,1
+16 JCP corpus callosum,59,82,36,0.39,1,9,3,21,49
+17 JCP Neuro Damage- cortex,79,86,80,0.11,0,8,0,66,9
+18 JCP Neuro reading,87,100,72,0.28,7,0,73,3,0
+19 JCP cerebellar cortex neuron,63,91,48,0.36,53,20,7,0,3
+20 JCP circle of Willis,61,86,52,0.3,51,1,2,22,7
+21 JCP motor activity,63,78,44,0.27,53,11,5,14,0
+22 JCP Circle of Willis,72,73,68,0.06,13,0,7,3,60
+29 JCP Lesion Spinal level,66,91,44,0.38,9,3,55,16,-
+30 JCP global cerebral ischemia,1,0,4,-0.1,1,14,21,26,21
+31 JCP localization question,85,95,72,0.34,0,1,9,2,71
+32 JCP Fluent Aphasia,62,86,36,0.46,3,52,1,16,11
+33 JCP lesion,81,91,76,0.22,1,1,10,3,68
+34 JCP parietal lobe,89,91,84,0.12,1,5,3,74,0
+35 JCP cerebral cortex,81,95,68,0.32,68,5,7,3,0
+36 JCP agnosia,95,100,88,0.17,79,1,2,1,0
+37 JCP rostral neuropore,93,95,96,0.05,3,78,0,1,1
+38 JCP defective neural crest cells,95,95,92,0.05,1,0,0,79,3
+39 JCP Myelination CNS,100,100,100,0,0,0,83,0,0
+40 GM Pathology Clinical syndrome,81,91,76,0.17,0,68,10,0,5
+41 GM Pathology Cerebral Palsy,79,100,60,0.31,4,0,0,13,66
+42 GM Pathology Blood brain barrier,91,100,80,0.21,7,0,0,76,0
+43 GM Pathology Clinical brain death,78,95,68,0.32,1,0,5,65,12
+44 GM Pathology Duret hemorrhage,51,86,40,0.34,43,12,13,13,2
+45 GM Pathology Neural tube defect,100,100,100,0,0,83,0,0,0
+60 BJR Psy. Behavior,98,100,96,0.1,82,1,0,0,0
+61 BJR Psy. Behavior,75,91,56,0.32,5,63,0,4,11
+63 DL Psy. Neuroimaging,71,91,60,0.31,10,59,4,4,6
+65 RWP Physiology Neuron,74,82,60,0.17,3,1,62,13,4
+66 RWP Physiology Neurons,69,95,56,0.29,3,7,58,11,4
+67 RWP Physiology CNS synapse,78,82,64,0.22,5,65,1,12,0
+68 RWP Physiology Neurons,65,78,56,0.2,1,9,54,15,4
+69 RWP Physiology Nerve cells of animals,56,69,40,0.28,47,29,1,0,6
+70 RWP Physiology Post-synaptic neuron,78,100,36,0.63,65,0,7,11,0
+71 RWP Physiology Neurotransmitter,98,100,96,0.2,1,0,0,0,82
+72 RWP Physiology Postsynaptic Response,93,100,84,0.28,2,2,78,1,0
+73 RWP Physiology Neurons,73,82,56,0.26,16,0,61,4,2
+399 RWP Physiology neuron signaling,67,91,52,0.28,56,2,21,0,4
+400 RWP Physiology myelin,43,43,28,0.19,1,0,36,0,46
+401 REWF Cell Structure 01,61,82,48,0.29,0,2,20,9,51
+402 REWF cell structure 02,90,95,84,0.11,1,1,6,75,0
+403 REWF cell structure 03,63,86,48,0.4,18,10,53,2,0
+404 REWF Injury responses,67,91,48,0.37,9,10,8,0,56
+405 REWF injury responses,95,100,88,0.16,79,1,0,1,2
+406 REWF injury responses,75,82,56,0.28,5,6,63,9,0
+407 DL Psy. Neuroimaging,77,86,52,0.33,1,9,4,5,64
+A 19 year-old man ha,95,95,92,0.01,3,1,0,0,79
+419 BJR Psy. Memory,97,100,100,0.01,1,0,0,81,1
+420 BJR Psy. Brain,92,100,92,0.08,1,3,77,1,1

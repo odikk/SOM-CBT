@@ -1,0 +1,1 @@
+<html><head><title>Untitled Document</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head><body><? $trans = get_html_translation_table(HTML_ENTITIES); foreach($trans as $key=>$value){echo "                     ".$value."<br>";}?></body></html>
